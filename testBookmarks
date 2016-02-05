@@ -1,0 +1,135 @@
+{
+   "checksum": "b73dff918fd15aec8301381e05451400",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13098456548777101",
+                     "id": "18",
+                     "name": "VirusTotal - Free Online Virus, Malware and URL Scanner",
+                     "type": "url",
+                     "url": "https://www.virustotal.com/"
+                  } ],
+                  "date_added": "13098455929999592",
+                  "date_modified": "13098456548777101",
+                  "id": "11",
+                  "name": "A11",
+                  "type": "folder"
+               }, {
+                  "date_added": "13098456528233624",
+                  "id": "17",
+                  "name": "URL SEO Friendly Test | SeoSiteCheckup.com",
+                  "type": "url",
+                  "url": "http://seositecheckup.com/tools/seo-friendly-url-test"
+               } ],
+               "date_added": "13098455906368522",
+               "date_modified": "13098456528233624",
+               "id": "8",
+               "name": "A1",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [ {
+                     "date_added": "13098456559713087",
+                     "id": "19",
+                     "name": "data: URL tests",
+                     "type": "url",
+                     "url": "http://www-archive.mozilla.org/quality/networking/testing/datatests.html"
+                  } ],
+                  "date_added": "13098455936119475",
+                  "date_modified": "13098456559713087",
+                  "id": "12",
+                  "name": "A21",
+                  "type": "folder"
+               }, {
+                  "children": [ {
+                     "date_added": "13098456567938488",
+                     "id": "20",
+                     "name": "Canonical URL / Location Checker - SEO Review Tools",
+                     "type": "url",
+                     "url": "http://www.seoreviewtools.com/canonical-url-location-checker/"
+                  } ],
+                  "date_added": "13098455950376213",
+                  "date_modified": "13098456567938488",
+                  "id": "13",
+                  "name": "A22",
+                  "type": "folder"
+               } ],
+               "date_added": "13098455914375114",
+               "date_modified": "13098455950376287",
+               "id": "9",
+               "name": "A2",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "children": [  ],
+                  "date_added": "13098455970431818",
+                  "date_modified": "13098455970431818",
+                  "id": "14",
+                  "name": "A31",
+                  "type": "folder"
+               }, {
+                  "date_added": "13098456580898086",
+                  "id": "21",
+                  "name": "Create Split URL test using VWO - Knowledge Base - Visual Website Optimizer",
+                  "type": "url",
+                  "url": "https://vwo.com/knowledge/create-split-url-test/"
+               } ],
+               "date_added": "13098455921374319",
+               "date_modified": "13098456580898086",
+               "id": "10",
+               "name": "A3",
+               "type": "folder"
+            }, {
+               "date_added": "13098456518391413",
+               "id": "15",
+               "name": "Redirect experiments: Test separate URLs – Optimizely Support",
+               "type": "url",
+               "url": "https://help.optimizely.com/hc/en-us/articles/200040675-Redirect-experiments-Test-separate-URLs-"
+            }, {
+               "date_added": "13098456523917616",
+               "id": "16",
+               "name": "TrustedSource - Check Single URL",
+               "type": "url",
+               "url": "https://trustedsource.org/en/feedback/url?action=checksingle"
+            } ],
+            "date_added": "13098455868277858",
+            "date_modified": "13098456523917616",
+            "id": "6",
+            "name": "Folder A",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13098455877228398",
+            "date_modified": "13098455877228398",
+            "id": "7",
+            "name": "Folder B",
+            "type": "folder"
+         } ],
+         "date_added": "13098455819837315",
+         "date_modified": "13098455877228621",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13098455819837321",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13098455819837322",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
